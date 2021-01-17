@@ -68,6 +68,7 @@ layout: default
 
 | Link                                                            | Summary                                                                                    |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [Bitcoin Core Release: What’s New?](https://bitcoinmagazine.com/articles/bitcoin-core-0-21-0-released-whats-new) | Bitcoin Core update review by Aaron van Wirdum  |
 | [Bitcoin is time](https://www.swanbitcoin.com/bitcoin-is-time/) | By Gigi                                                                                    |
 | [Understanding Bitcoin's Scarcity](https://bitcoinmagazine.com/articles/understanding-bitcoins-scarcity) | By Jan-Willem Burgers                             |
 
