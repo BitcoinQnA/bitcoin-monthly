@@ -4,20 +4,18 @@ layout: default
 
 [![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoin-monthly/master/assets/images/BM%20Header.png)](https://bitcoinmonthly.news/)
 
-Welcome to Bitcoin Monthly, a no frills index of the main news and developments from the last month in Bitcoin.
+**Welcome to Bitcoin Monthly, a no frills index of the main news and developments from the last month in Bitcoin.**
 
-We aim to index these main categories:- 
+**We aim to index these main categories:-** 
 
-* Protocol, Wallet, Node + Infastructure updates
-* New releases
-* Notable podcasts
-* Educational resources
-* Notable articles
+* **Protocol, Wallet, Node + Infastructure updates**
+* **New releases**
+* **Notable podcasts**
+* **Educational resources**
+* **Notable articles**
 
+# January
 
-<br/>
-
-## January
 
 ### Updates
 
@@ -37,12 +35,16 @@ We aim to index these main categories:-
 | [BTCPay Server v1.0.6.5](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.6.5) | Server pairing via QR + general UI improvements          |
 | [Mempool v2.0](https://github.com/mempool/mempool/releases/tag/v2.0.0)               | Support for single board computers                               |
 
+<br/>
+
 ### New Releases
 
 | Link                                                       | Summary                                                                                    |
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Blockstream Jade](https://blockstream.com/2021/01/03/en-secure-your-bitcoin-and-liquid-assets-with-blockstream-jade/)| New hardware wallet from Blockstream |
 | [Strike Global](https://jimmymow.medium.com/announcing-strike-global-2392b908f611)| Protocol allowing users to send/receive bitcoin to/from various currencies |
+
+<br/>
 
 ### Podcasts
 
@@ -54,6 +56,8 @@ We aim to index these main categories:-
 | [Citadel Dispatch w/ J9Roem + Benthecarman](https://youtu.be/h9Rnpd5uuvo)  | Censorship, privacy, and open source software discussion  |
 | [The Van Wirdum Sjorsnado](https://bitcoinmagazine.com/articles/the-lightning-network-basics)  | Lightning Network basics  |
 
+<br/>
+
 ### Education
 
 | Link                                                            | Summary                                                                                    |
@@ -61,6 +65,7 @@ We aim to index these main categories:-
 | [Verifying Software Guide ](https://www.bitcoinqna.com/post/verifying-software-101)  |  Guide to verifying software signatures by Bitcoin Q+A     |
 | [5 Tips for Bitcoin Newcomers ](https://youtu.be/V-H4mBYJf7E)  |  5 practical tips for Bitcoin newcomers by BTC Sessions     |
 
+<br/>
 
 ### Articles
 
@@ -68,10 +73,6 @@ We aim to index these main categories:-
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Bitcoin is time](https://www.swanbitcoin.com/bitcoin-is-time/) | By Gigi                                                                                    |
 | [Understanding Bitcoin's Scarcity](https://bitcoinmagazine.com/articles/understanding-bitcoins-scarcity) | By Jan-Willem Burgers                             |
-
-
-
-<br/>
 
 ***
 
