@@ -70,7 +70,7 @@ layout: default
 | Link                                                            | Summary                                                                                    |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Bitcoin Core Release: What’s New?](https://bitcoinmagazine.com/articles/bitcoin-core-0-21-0-released-whats-new) | Bitcoin Core update review by Aaron van Wirdum  |
-| [HRF funds Specter + Lot49](https://bitcoinmagazine.com/articles/human-rights-foundation-provides-grants-to-specter-lot49) | By Peter Chawaga                |
+| [HRF Funds Specter + Lot49](https://bitcoinmagazine.com/articles/human-rights-foundation-provides-grants-to-specter-lot49) | By Peter Chawaga                |
 | [Tor Network Attack](https://darknetdaily.com/?p=1030) | v3 Onion addresses down after attack on the Tor Network By Dark Net Daily                |
 | [Another Ledger Data Leak](https://www.ledger.com/blog/update-efforts-to-protect-your-data-and-prosecute-the-scammers) | By Ledger |
 
