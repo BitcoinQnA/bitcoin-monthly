@@ -4,7 +4,7 @@ layout: default
 
 [![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoin-monthly/master/assets/images/BM%20Header.png)](https://bitcoinmonthly.news/)
 
-[test](http://bitcoinmonthly.news/docs/SUPPORT.md)
+[test](http://bitcoinmonthly.news/January.md)
 
 Just your average Joe with a 9-5 job and a passion for learning about Bitcoin. As my knowledge improves I try to give back through education. I am not a programmer or developer, nor do I have any prior technical experience. I have been fortunate enough to speak regularly with some smart and generous people who help me understand these complex topics, which I then try to present in an approachable way for others to learn.
 
