@@ -14,7 +14,7 @@ We aim to index these main categories:-
 * Notable podcasts
 * Educational resources
 * Notable articles
-* General news
+* Infastructure
 
 <br/>
 
@@ -22,13 +22,14 @@ We aim to index these main categories:-
 
 | News                                          | Category   | Summary                                                                       |
 |------------------------------------------------------------|-------------------------|----------------------------------------------------------|
-| [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)     | Protocol   | Descriptor wallets, Compact block filters via P2P network Better rebroadcast logic, Tor v3 support, Taproot added but not activated                                                         |
-| [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)     | Wallets   | Description here                                          |
-| [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)     | Nodes     | Description here                                          |
-| [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)     | Podcast   | Description here                                          |
-| [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)     | Education | Description here                                          |
-| [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)     | Article   | Description here                                          |
-| [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)     | General   | Description here                                          |
+| [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)     | Protocol   | Descriptor wallets, compact block filters via P2P network, better rebroadcast logic, Tor v3 support, Taproot added but not activated     |
+| [Coldcard Firmware V3.2.2](https://blog.coinkite.com/version-3.2.2-released/)     | Wallets   | Multi-sig wallet address verification + custom derivation paths                                 |
+| [Umbrel App Store](https://medium.com/getumbrel/introducing-the-umbrel-app-store-7a2068c64a10)     | Nodes     | One click install for node apps     |
+| [RaspiBlitz v1.6.3](https://github.com/rootzoll/raspiblitz#downloading-the-software)     | Nodes     | Updates to Specter, Mempool, RTL + Joininbox  |
+| [Bit Buy Bit w/ Crypto Cloaks](https://www.bit-buy-bit.com/podcast-1/episode/c1b845ec/ep59-bitcoin-podcast-with-cryptocloaks)   | Podcast   | Interview with the Crypto Cloaks team          |
+| [BTC Sessions top tips](https://youtu.be/V-H4mBYJf7E)     | Education | 5 top tips for Bitcoin newcomers                          |
+| [Bitcoin in time](https://www.swanbitcoin.com/bitcoin-is-time/)     | Article   | Bitcoin + Time by @Dergigi                                          |
+| [Mempool v2.0](https://github.com/mempool/mempool/releases/tag/v2.0.0)     | Infastructure   | Support for single board computers                     |
 
 
 <br/>
