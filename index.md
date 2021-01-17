@@ -22,6 +22,7 @@ layout: default
 | [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)  | Descriptor wallets, compact block filters via P2P network, new rebroadcast logic, Tor v3 support + Taproot added |
 | [Coldcard v3.2.2](https://blog.coinkite.com/version-3.2.2-released/)  | Multi-sig wallet address verification + custom derivation paths        |
 | [Fully Noded v0.2.9](https://github.com/Fonta1n3/FullyNoded/releases/tag/v0.2.9)  | Transaction labels + updated UX/UX        |
+| [Samourai Wallet v0.99.96b](https://code.samourai.io/wallet/samourai-wallet-android)  | PayNym UI improvements + wallet now saves sats/BTC preference       |
 | [BlueWallet v6.0.2](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.0.2)  | Vault key sharing, coin control UX imporovements + set server via QR code |
 | [Hexa Wallet v1.4.1](https://github.com/bithyve/hexa/releases/tag/v1.4.1)  | Connect to Bitcoin Core + bug fixes        |
 | [Specter v1.0.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.0.0)  | Address labelling UI improvements, data exports to CSV       |
