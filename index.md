@@ -73,7 +73,7 @@ layout: default
 | [HRF Announce Grants](https://bitcoinmagazine.com/articles/human-rights-foundation-provides-grants-to-specter-lot49) | Human Rights Foundation provide grants to Specter + Lot49      |
 | [Tor Network Attack](https://darknetdaily.com/?p=1030) | v3 Onion addresses down after attack on the Tor Network By Dark Net Daily                |
 | [Ledger Data Leak](https://www.ledger.com/blog/update-efforts-to-protect-your-data-and-prosecute-the-scammers) | Another user data leak announced by Ledger |
-| [FinCEN Extends Comment Period](https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-rule-aimed-closing-anti-money-laundering) | Comment period on proposed new regulation |
+| [FinCEN Extends Comment Period](https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-rule-aimed-closing-anti-money-laundering) | Comment period on proposed new regulation has been extended |
 
 
 
