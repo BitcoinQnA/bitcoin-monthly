@@ -61,6 +61,8 @@ layout: default
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Verifying Software Guide ](https://www.bitcoinqna.com/post/verifying-software-101)  |  Guide to verifying software signatures by Bitcoin Q+A     |
 | [5 Tips for Bitcoin Newcomers ](https://youtu.be/V-H4mBYJf7E)  |  5 practical tips for Bitcoin newcomers by BTC Sessions     |
+| [Bitcoin Transaction Fees ](https://youtu.be/XQ4PRqdqadE)  |  How to save money on transaction fees by BTC Sessions     |
+
 | [Bitcoin Explained ](https://youtu.be/DRPeExoH5rY)  |  Bitcoin explainer by B.J Dweck    |
 
 
@@ -69,8 +71,8 @@ layout: default
 | Link                                                            | Summary                                                                                    |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Bitcoin Core Release: What’s New?](https://bitcoinmagazine.com/articles/bitcoin-core-0-21-0-released-whats-new) | Bitcoin Core update review by Aaron van Wirdum  |
-| [Bitcoin is time](https://www.swanbitcoin.com/bitcoin-is-time/) | By Gigi                                                                                    |
-| [Understanding Bitcoin's Scarcity](https://bitcoinmagazine.com/articles/understanding-bitcoins-scarcity) | By Jan-Willem Burgers                             |
+| [HRF funds Specter + Lot49](https://bitcoinmagazine.com/articles/human-rights-foundation-provides-grants-to-specter-lot49) | By Peter Chawaga                |
+
 
 <br/>
 
