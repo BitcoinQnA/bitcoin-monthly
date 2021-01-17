@@ -32,7 +32,9 @@ layout: default
 | [RaspiBlitz v1.6.3](https://github.com/rootzoll/raspiblitz#downloading-the-software) | Updates to Specter, Mempool, RTL + Joininbox                     |
 | [JoininBox v0.1.16](https://github.com/openoms/joininbox/releases/tag/v0.1.16) | Streamlined install + Boltzmann calculator                    |
 | [BTCPay Server v1.0.6.5](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.6.5) | Server pairing via QR + general UI improvements          |
-| [Mempool v2.0](https://github.com/mempool/mempool/releases/tag/v2.0.0)               | Support for single board computers                               |
+| [Mempool v2.0](https://github.com/mempool/mempool/releases/tag/v2.0.0)               | V2 support for single board computers                               |
+| [Bisq 1.5.4](https://github.com/bisq-network/bisq/releases)               | DoS attack resilience                               |
+
 
 ## New Releases
 
@@ -40,6 +42,8 @@ layout: default
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Blockstream Jade](https://blockstream.com/2021/01/03/en-secure-your-bitcoin-and-liquid-assets-with-blockstream-jade/)| New hardware wallet from Blockstream |
 | [Strike Global](https://jimmymow.medium.com/announcing-strike-global-2392b908f611)| Protocol allowing users to send/receive bitcoin to/from various currencies |
+| [Silent.Link](https://silent.link/)| Purchase eSIM without KYC using Bitcoin or Lightning |
+
 
 ## Podcasts
 
@@ -57,6 +61,8 @@ layout: default
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Verifying Software Guide ](https://www.bitcoinqna.com/post/verifying-software-101)  |  Guide to verifying software signatures by Bitcoin Q+A     |
 | [5 Tips for Bitcoin Newcomers ](https://youtu.be/V-H4mBYJf7E)  |  5 practical tips for Bitcoin newcomers by BTC Sessions     |
+| [Bitcoin Explained ](https://youtu.be/DRPeExoH5rY)  |  Bitcoin explainer by B.J Dweck    |
+
 
 ## Articles
 
