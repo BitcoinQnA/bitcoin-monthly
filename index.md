@@ -14,7 +14,6 @@ layout: default
 * Educational resources
 * Notable articles
 
-<br/>
 
 ## Updates
 
