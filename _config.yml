@@ -3,3 +3,4 @@ description: Your Bitcoin news summary
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
+include: ['_pages']
