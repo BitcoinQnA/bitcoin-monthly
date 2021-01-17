@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoin-monthly/master/assets/images/BM%20Header.png)](https://bitcoinmonthly.news/)
+[![bitcoinerheader](https://raw.githubusercontent.com/BitcoinQnA/bitcoin-monthly/master/assets/images/BM2.png)](https://bitcoinmonthly.news/)
 
 **Welcome to Bitcoin Monthly, a no frills index of the main news and developments from the last month in Bitcoin.**
 
