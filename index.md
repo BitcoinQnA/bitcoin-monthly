@@ -62,7 +62,6 @@ layout: default
 | [Verifying Software Guide ](https://www.bitcoinqna.com/post/verifying-software-101)  |  Guide to verifying software signatures by Bitcoin Q+A     |
 | [5 Tips for Bitcoin Newcomers ](https://youtu.be/V-H4mBYJf7E)  |  5 practical tips for Bitcoin newcomers by BTC Sessions     |
 | [Bitcoin Transaction Fees ](https://youtu.be/XQ4PRqdqadE)  |  How to save money on transaction fees by BTC Sessions     |
-
 | [Bitcoin Explained ](https://youtu.be/DRPeExoH5rY)  |  Bitcoin explainer by B.J Dweck    |
 
 
