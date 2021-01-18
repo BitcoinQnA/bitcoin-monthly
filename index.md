@@ -21,9 +21,9 @@ layout: default
 |-------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Bitcoin Core v0.21.0](https://bitcoincore.org/en/releases/0.21.0/)  | Descriptor wallets, compact block filters via P2P network, new rebroadcast logic, Tor v3 support + Taproot added |
 | [Coldcard v3.2.2](https://blog.coinkite.com/version-3.2.2-released/)  | Multi-sig wallet address verification + custom derivation paths        |
-| [Fully Noded v0.2.9](https://github.com/Fonta1n3/FullyNoded/releases/tag/v0.2.9)  | Transaction labels + updated UX/UX        |
+| [Fully Noded v0.2.10](https://github.com/Fonta1n3/FullyNoded/releases/tag/v0.2.10)  | Transaction labels, updated UX/UX + universal builds        |
 | [Samourai Wallet v0.99.96b](https://code.samourai.io/wallet/samourai-wallet-android)  | PayNym UI improvements + wallet now saves sats/BTC preference       |
-| [BlueWallet v6.0.2](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.0.2)  | Vault key sharing, coin control UX imporovements + set server via QR code |
+| [BlueWallet v6.0.3](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.0.3)  | Vault key sharing, coin control UX imporovements + set server via QR code |
 | [Hexa Wallet v1.4.1](https://github.com/bithyve/hexa/releases/tag/v1.4.1)  | Connect to Bitcoin Core + bug fixes        |
 | [Specter v1.0.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.0.0)  | Address labelling UI improvements, data exports to CSV       |
 | [Sparrow v0.9.10](https://github.com/sparrowwallet/sparrow/releases)  | Connect to Bitcoin Core directly, wallet birth date support + faster tx searches    |
@@ -31,7 +31,7 @@ layout: default
 | [Umbrel App Store](https://medium.com/getumbrel/introducing-the-umbrel-app-store-7a2068c64a10)  | One click install for node apps                       |
 | [RaspiBlitz v1.6.3](https://github.com/rootzoll/raspiblitz#downloading-the-software) | Updates to Specter, Mempool, RTL + Joininbox                     |
 | [JoininBox v0.1.16](https://github.com/openoms/joininbox/releases/tag/v0.1.16) | Streamlined install + Boltzmann calculator                    |
-| [BTCPay Server v1.0.6.5](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.6.5) | Server pairing via QR + general UI improvements          |
+| [BTCPay Server v1.0.6.6](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.6.5) | Server pairing via QR, general UI improvements + bug fixes  |
 | [Mempool v2.0](https://github.com/mempool/mempool/releases/tag/v2.0.0)               | V2 support for single board computers                               |
 | [Bisq 1.5.4](https://github.com/bisq-network/bisq/releases)               | DoS attack resilience                               |
 
@@ -63,6 +63,7 @@ layout: default
 | [5 Tips for Bitcoin Newcomers ](https://youtu.be/V-H4mBYJf7E)  |  5 practical tips for Bitcoin newcomers by BTC Sessions     |
 | [Bitcoin Transaction Fees ](https://youtu.be/XQ4PRqdqadE)  |  How to save money on transaction fees by BTC Sessions     |
 | [Bitcoin Explained ](https://youtu.be/DRPeExoH5rY)  |  Bitcoin explainer by B.J Dweck    |
+| [Wallet Backup Guide](https://bitcoin-intro.com/en/backup) | Detailed guide on backup options by 6102 Bitcoin |
 
 
 ## Articles
