@@ -33,7 +33,7 @@ layout: default
 | [JoininBox v0.1.16](https://github.com/openoms/joininbox/releases/tag/v0.1.16) | Streamlined install + Boltzmann calculator                    |
 | [BTCPay Server v1.0.6.6](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.6.5) | Server pairing via QR, general UI improvements + bug fixes  |
 | [Mempool v2.0](https://github.com/mempool/mempool/releases/tag/v2.0.0)               | V2 support for single board computers                               |
-| [Bisq 1.5.4](https://github.com/bisq-network/bisq/releases)               | DoS attack resilience                               |
+| [Bisq v1.5.4](https://github.com/bisq-network/bisq/releases)               | DoS attack resilience                               |
 
 
 ## New Releases
