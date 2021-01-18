@@ -54,6 +54,7 @@ layout: default
 | [What Bitcoin Did w/ Vijay Boyapati](https://www.whatbitcoindid.com/podcast/the-ultimate-bitcoin-101)  | A Bitcoin primer podcast  |
 | [Citadel Dispatch w/ J9Roem + Benthecarman](https://youtu.be/h9Rnpd5uuvo)  | Censorship, privacy, and open source software discussion  |
 | [The Van Wirdum Sjorsnado](https://bitcoinmagazine.com/articles/the-lightning-network-basics)  | Lightning Network basics  |
+| [Bit Buy Bit w/ Econoalchemist](https://www.bit-buy-bit.com/podcast-1/episode/30354936/ep61-bitcoin-podcast-with-econoalchemis) | Self custody + noKYC |
 
 ## Education
 
