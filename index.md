@@ -50,7 +50,6 @@ layout: default
 | Link                                                            | Summary                                                                                    |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Stephan Livera w/ Jonas Schnelli](https://stephanlivera.com/episode/242/)  | Bitcoin development, contribution, funding and the ecosystem of Bitcoin   |
-| [21ism w/ Nicholas Dorier](https://21ism.com/portfolio-item/nicolas-dorier/)  | Interview with the founder of BTCPay Server   |
 | [What Bitcoin Did w/ Vijay Boyapati](https://www.whatbitcoindid.com/podcast/the-ultimate-bitcoin-101)  | A Bitcoin primer podcast  |
 | [Citadel Dispatch w/ J9Roem + Benthecarman](https://youtu.be/h9Rnpd5uuvo)  | Censorship, privacy, and open source software discussion  |
 | [The Van Wirdum Sjorsnado](https://bitcoinmagazine.com/articles/the-lightning-network-basics)  | Lightning Network basics  |
