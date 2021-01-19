@@ -8,7 +8,7 @@ layout: default
 
 **We aim to index these main categories:-** 
 
-* Protocol, Wallet, Node + Infastructure updates
+* Protocol + infastructure updates
 * New releases
 * Notable podcasts
 * Educational resources
