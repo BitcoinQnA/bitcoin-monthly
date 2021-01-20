@@ -11,7 +11,7 @@ layout: default
 * [Protocol + infastructure updates](#updates)
 * [New releases](#releases)
 * [Notable podcasts](#podcasts)
-* [Educational resources](#news)
+* [Educational resources](#education)
 * [Notable articles](#articles)
 
 
