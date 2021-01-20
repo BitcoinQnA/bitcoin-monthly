@@ -8,11 +8,11 @@ layout: default
 
 **We aim to index these main categories:-** 
 
-* Protocol + infastructure updates
-* New releases
-* Notable podcasts
-* Educational resources
-* Notable articles
+* [Protocol + infastructure updates](#updates)
+* [New releases](#releases)
+* [Notable podcasts](#podcasts)
+* [Educational resources](#news)
+* [Notable articles](#articles)
 
 
 ## Updates
@@ -36,7 +36,7 @@ layout: default
 | [Bisq v1.5.4](https://github.com/bisq-network/bisq/releases)               | DoS attack resilience                               |
 
 
-## New Releases
+## Releases
 
 | Link                                                       | Summary                                                                                    |
 |------------------------------------------------------------|--------------------------------------------------------------------------------------------|
