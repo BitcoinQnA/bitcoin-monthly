@@ -28,7 +28,7 @@ layout: default
 | [Specter v1.0.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.0.0)  | Address labelling UI improvements, data exports to CSV       |
 | [Sparrow v0.9.10](https://github.com/sparrowwallet/sparrow/releases)  | Connect to Bitcoin Core directly, wallet birth date support + faster tx searches    |
 | [myNode v0.2.22](https://github.com/mynodebtc/mynode/blob/master/CHANGELOG) | Software updates, bug fixes + improved logs |
-| [Umbrel App Store](https://medium.com/getumbrel/introducing-the-umbrel-app-store-7a2068c64a10)  | One click install for node apps                       |
+| [Umbrel v0.3.2](https://github.com/getumbrel/umbrel/releases/tag/v0.3.2)  | Various application updates                       |
 | [RaspiBlitz v1.6.3](https://github.com/rootzoll/raspiblitz#downloading-the-software) | Updates to Specter, Mempool, RTL + Joininbox                     |
 | [JoininBox v0.1.16](https://github.com/openoms/joininbox/releases/tag/v0.1.16) | Streamlined install + Boltzmann calculator                    |
 | [BTCPay Server v1.0.6.6](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.6.5) | Server pairing via QR, general UI improvements + bug fixes  |
