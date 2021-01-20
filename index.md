@@ -43,6 +43,7 @@ layout: default
 | [Blockstream Jade](https://blockstream.com/2021/01/03/en-secure-your-bitcoin-and-liquid-assets-with-blockstream-jade/)| New hardware wallet from Blockstream |
 | [Strike Global](https://jimmymow.medium.com/announcing-strike-global-2392b908f611)| Protocol allowing users to send/receive bitcoin to/from various currencies |
 | [Silent.Link](https://silent.link/)| Purchase eSIM without KYC using Bitcoin or Lightning |
+| [txCast](https://txcast.org/) | Commandline tool to quickly broadcast signed transactions over tor by 6102  |
 
 
 ## Podcasts
@@ -72,6 +73,7 @@ layout: default
 | Link                                                            | Summary                                                                                    |
 |-----------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | [Bitcoin Core Release: What’s New?](https://bitcoinmagazine.com/articles/bitcoin-core-0-21-0-released-whats-new) | Bitcoin Core update review by Aaron van Wirdum  |
+| [Bitcoin Optech #132](https://bitcoinops.org/en/newsletters/2021/01/20/) | Payjoin adoption + hardware wallet compatability   |
 | [HRF Announce Grants](https://bitcoinmagazine.com/articles/human-rights-foundation-provides-grants-to-specter-lot49) | Human Rights Foundation provide grants to Specter + Lot49      |
 | [Tor Network Attack](https://darknetdaily.com/?p=1030) | v3 Onion addresses down after attack on the Tor Network By Dark Net Daily                |
 | [Ledger Data Leak](https://www.ledger.com/blog/update-efforts-to-protect-your-data-and-prosecute-the-scammers) | Another user data leak announced by Ledger |
