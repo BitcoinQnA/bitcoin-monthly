@@ -34,6 +34,7 @@ layout: default
 | [BTCPay Server v1.0.6.6](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.6.5) | Server pairing via QR, general UI improvements + bug fixes  |
 | [Mempool v2.0](https://github.com/mempool/mempool/releases/tag/v2.0.0)               | V2 support for single board computers                               |
 | [Bisq v1.5.4](https://github.com/bisq-network/bisq/releases)               | DoS attack resilience                               |
+| [c-lightning v0.9.3](https://medium.com/blockstream/c-lightning-v0-9-3-federal-qualitative-strengthening-8d431e63b148) | Onion messages + "offers"     |
 
 
 ## Releases
