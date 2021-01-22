@@ -79,9 +79,8 @@ layout: default
 | [Tor Network Attack](https://darknetdaily.com/?p=1030) | v3 Onion addresses down after attack on the Tor Network By Dark Net Daily                |
 | [Ledger Data Leak](https://www.ledger.com/blog/update-efforts-to-protect-your-data-and-prosecute-the-scammers) | Another user data leak announced by Ledger |
 | [FinCEN Extends Comment Period](https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-rule-aimed-closing-anti-money-laundering) | Comment period on proposed new regulation has been extended |
-
-
-
+| [Arctic Circle Mining](https://www.bloomberg.com/news/photo-essays/2021-01-14/bitcoin-btc-usd-cryptocurrency-mining-comes-to-arctic-circle-photos) | BitCluster to commence mining operations in Norilsk |
+ 
 
 <br/>
 
