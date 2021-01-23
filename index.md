@@ -44,7 +44,8 @@ layout: default
 | [Blockstream Jade](https://blockstream.com/2021/01/03/en-secure-your-bitcoin-and-liquid-assets-with-blockstream-jade/)| New hardware wallet from Blockstream |
 | [Strike Global](https://jimmymow.medium.com/announcing-strike-global-2392b908f611)| Protocol allowing users to send/receive bitcoin to/from various currencies |
 | [Silent.Link](https://silent.link/)| Purchase eSIM without KYC using Bitcoin or Lightning |
-| [txCast](https://txcast.org/) | Commandline tool to quickly broadcast signed transactions over tor by 6102  |
+| [txCast](https://txcast.org/) | Commandline tool to quickly broadcast signed transactions over tor  |
+| [LNsync](https://blockstream.com/2021/01/22/en-lnsync-getting-your-lightning-node-up-to-speed-quickly/) | Tool to improve LN payment speed and reliability |
 
 
 ## Podcasts
