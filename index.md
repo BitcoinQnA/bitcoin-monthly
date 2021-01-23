@@ -68,6 +68,7 @@ layout: default
 | [Bitcoin Explained ](https://youtu.be/DRPeExoH5rY)  |  Bitcoin explainer by B.J Dweck    |
 | [Wallet Backup Guide](https://bitcoin-intro.com/en/backup) | Detailed guide on backup options by 6102 Bitcoin |
 | [Understanding Bitcoin Wallets](https://youtu.be/bixxWrTDOyc) | How to acquire + store bitcoin by Ministry of Nodes |
+| [The Builders Guide to LND](https://docs.lightning.engineering/) | A guide to building on Lightning by LND |
 
 
 ## Articles
