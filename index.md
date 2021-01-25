@@ -86,6 +86,8 @@ layout: default
 | [FinCEN Extends Comment Period](https://www.fincen.gov/news/news-releases/fincen-extends-comment-period-rule-aimed-closing-anti-money-laundering) | Comment period on proposed new regulation has been extended |
 | [Arctic Circle Mining](https://www.bloomberg.com/news/photo-essays/2021-01-14/bitcoin-btc-usd-cryptocurrency-mining-comes-to-arctic-circle-photos) | BitCluster to commence mining operations in Norilsk |
 | [Lightning Network Privacy Analysis](https://arxiv.org/abs/2003.12470) | An empirical analysis of privacy in the Lightning network |
+| [Bitcoin Core Usage Survey](https://achow101.com/2021/01/bitcoin-core-survey) | Survey to learn how + why people use Bitcoin Core |
+
 
 
  
