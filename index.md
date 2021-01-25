@@ -58,6 +58,8 @@ layout: default
 | [Citadel Dispatch w/ Diverter + Max Tannahill](https://youtu.be/3psmfRWD9hg)  | Encryption, mining + noKYC discussion |
 | [The Van Wirdum Sjorsnado](https://bitcoinmagazine.com/articles/the-lightning-network-basics)  | Lightning Network basics  |
 | [Bit Buy Bit w/ Ketan](https://www.bit-buy-bit.com/podcast-1/episode/365a4c50/ep62-bitcoin-podcast-with-_k3tan) | Network security, nodes + self custody |
+| [Bitcoin Fundamentals w/ Jimmy Song](https://www.theinvestorspodcast.com/bitcoin-fundamentals/btc009-bitcoin-engineering-w-core-developer-jimmy-song/) | 51% attacks, Bitcoin updates + node operators  |
+
 
 ## Education
 
