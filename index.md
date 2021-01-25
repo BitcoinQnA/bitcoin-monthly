@@ -55,6 +55,7 @@ layout: default
 | [Stephan Livera w/ Jonas Schnelli](https://stephanlivera.com/episode/242/)  | Bitcoin development, contribution, funding + the ecosystem of Bitcoin   |
 | [What Bitcoin Did w/ Vijay Boyapati](https://www.whatbitcoindid.com/podcast/the-ultimate-bitcoin-101)  | A Bitcoin primer podcast  |
 | [Citadel Dispatch w/ J9Roem + Benthecarman](https://youtu.be/h9Rnpd5uuvo)  | Censorship, privacy + open source software discussion  |
+| [Citadel Dispatch w/ Diverter + Max Tannahill](https://youtu.be/3psmfRWD9hg)  | Encryption, mining + noKYC discussion |
 | [The Van Wirdum Sjorsnado](https://bitcoinmagazine.com/articles/the-lightning-network-basics)  | Lightning Network basics  |
 | [Bit Buy Bit w/ Ketan](https://www.bit-buy-bit.com/podcast-1/episode/365a4c50/ep62-bitcoin-podcast-with-_k3tan) | Network security, nodes + self custody |
 
