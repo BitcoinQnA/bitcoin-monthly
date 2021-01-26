@@ -31,6 +31,7 @@ layout: default
 | [myNode v0.2.22](https://github.com/mynodebtc/mynode/blob/master/CHANGELOG) | Software updates, bug fixes + improved logs |
 | [Umbrel v0.3.2](https://github.com/getumbrel/umbrel/releases/tag/v0.3.2)  | Various application updates                       |
 | [RaspiBlitz v1.6.3](https://github.com/rootzoll/raspiblitz#downloading-the-software) | Updates to Specter, Mempool, RTL + Joininbox                     |
+| [RoninDojo v1.8.3](https://code.samourai.io/ronindojo/RoninDojo/-/commit/2bea0d3b64f91aba8069e2db33f4b5a011cf9f11) | General bug fixes |
 | [Start9 Labs v0.2.8](https://github.com/Start9Labs/embassy-os/releases/tag/v0.2.8) | App updates, Tor reliability + UI improvements |
 | [JoininBox v0.1.16](https://github.com/openoms/joininbox/releases/tag/v0.1.16) | Streamlined install + Boltzmann calculator                    |
 | [BTCPay Server v1.0.6.6](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.6.5) | Server pairing via QR, general UI improvements + bug fixes  |
