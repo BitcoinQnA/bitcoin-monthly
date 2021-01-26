@@ -25,11 +25,13 @@ layout: default
 | [Samourai Wallet v0.99.96b](https://code.samourai.io/wallet/samourai-wallet-android)  | PayNym UI improvements + wallet now saves sats/BTC preference       |
 | [BlueWallet v6.0.3](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.0.3)  | Vault key sharing, coin control UX imporovements + set server via QR code |
 | [Hexa Wallet v1.4.1](https://github.com/bithyve/hexa/releases/tag/v1.4.1)  | Connect to Bitcoin Core + bug fixes        |
+| [Blockstream Green](https://blockstream.com/2021/01/25/en-blockstream-green-bitcoin-wallets-now-using-checksequenceverify-timelocks/) | Introduction of check sequence verify timelocks |
 | [Specter v1.0.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.0.0)  | Address labelling UI improvements, data exports to CSV       |
 | [Sparrow v0.9.10](https://github.com/sparrowwallet/sparrow/releases)  | Connect to Bitcoin Core directly, wallet birth date support + faster tx searches    |
 | [myNode v0.2.22](https://github.com/mynodebtc/mynode/blob/master/CHANGELOG) | Software updates, bug fixes + improved logs |
 | [Umbrel v0.3.2](https://github.com/getumbrel/umbrel/releases/tag/v0.3.2)  | Various application updates                       |
 | [RaspiBlitz v1.6.3](https://github.com/rootzoll/raspiblitz#downloading-the-software) | Updates to Specter, Mempool, RTL + Joininbox                     |
+| [Start9 Labs v0.2.8](https://github.com/Start9Labs/embassy-os/releases/tag/v0.2.8) | App updates, Tor reliability + UI improvements |
 | [JoininBox v0.1.16](https://github.com/openoms/joininbox/releases/tag/v0.1.16) | Streamlined install + Boltzmann calculator                    |
 | [BTCPay Server v1.0.6.6](https://github.com/btcpayserver/btcpayserver/releases/tag/v1.0.6.5) | Server pairing via QR, general UI improvements + bug fixes  |
 | [Mempool v2.0](https://github.com/mempool/mempool/releases/tag/v2.0.0)               | V2 support for single board computers                               |
