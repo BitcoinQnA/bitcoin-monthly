@@ -23,7 +23,7 @@ layout: default
 | [Coldcard v3.2.2](https://blog.coinkite.com/version-3.2.2-released/)  | Multi-sig wallet address verification + custom derivation paths        |
 | [Fully Noded v0.2.10](https://github.com/Fonta1n3/FullyNoded/releases/tag/v0.2.10)  | Transaction labels, updated UX/UX + universal builds        |
 | [Samourai Wallet v0.99.96b](https://code.samourai.io/wallet/samourai-wallet-android)  | PayNym UI improvements + wallet now saves sats/BTC preference       |
-| [BlueWallet v6.0.3](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.0.3)  | Vault key sharing, coin control UX imporovements + set server via QR code |
+| [BlueWallet v6.0.3](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.0.3)  | Vault key sharing, coin control UX imporovements |
 | [Hexa Wallet v1.4.1](https://github.com/bithyve/hexa/releases/tag/v1.4.1)  | Connect to Bitcoin Core + bug fixes        |
 | [Blockstream Green](https://blockstream.com/2021/01/25/en-blockstream-green-bitcoin-wallets-now-using-checksequenceverify-timelocks/) | Introduction of check sequence verify timelocks |
 | [Specter v1.0.0](https://github.com/cryptoadvance/specter-desktop/releases/tag/v1.0.0)  | Address labelling UI improvements, data exports to CSV       |
