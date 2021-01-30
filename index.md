@@ -14,6 +14,7 @@ layout: default
 * [Educational resources](#education)
 * [Notable articles](#articles)
 
+Podcast on Bit Buy Bit covering January's topics [here](https://www.bit-buy-bit.com/podcast-1/episode/31849950/ep64-bitcoin-podcast-with-bitcoin-qa).
 
 ## Updates
 
